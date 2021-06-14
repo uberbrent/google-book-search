@@ -31,7 +31,7 @@
 
   ## Features
     
-  A simple to hook up backend for any front end social media websites. 
+  A simple to hook up backend for any front end social media websites. Built using React on the front end and Mongo DB on the backend.
 
   ## Contributing
   
